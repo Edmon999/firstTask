@@ -8,9 +8,11 @@ _In_ _this_ _Project_ _I_ _use_ _HTML_ _CSS_ _and_ _Javascript_
 * [Css](https://en.wikipedia.org/wiki/CSS)
 
 ## It is about HTML and Javascript
-You can learn more [Javascript](https://javascript.info)  [HTML](https://www.w3schools.com/html/) and [CSS](https://www.w3schools.com/css/)
-
 ![Project Image](Image/ProjectImage.png)
+
+#### You can learn more [Javascript](https://javascript.info)  [HTML](https://www.w3schools.com/html/) and [CSS](https://www.w3schools.com/css/)
+
+
 
 ## Getting Started
 For running these project you need 
