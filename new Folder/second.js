@@ -4,3 +4,5 @@ for (let i = 0; i < 10; i++) {
   arr.push(num);
 }
 console.log(arr);
+let newArr = arr.filter((el) => el % 2 === 0);
+console.log(newArr);
